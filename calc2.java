@@ -14,7 +14,7 @@ public class calc2 {
         System.out.println(basFun.divd(34.0192312, -45.23453));
         System.out.println(basFun.mod(34.0192312, -45.23453));
         System.out.println(basFun.abs(-2342.17645));
-        System.out.println(basFun.exp(4, 4)); 
+        System.out.println(basFun.exp(4, 4));
     }
 }
 class basFun {
