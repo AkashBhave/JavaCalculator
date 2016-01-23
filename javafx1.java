@@ -24,3 +24,4 @@ public class javafx extends Application {
         System.out.println("Hello, this is JavaFX.");
     }
 }
+ 
