@@ -7,7 +7,7 @@ import java.lang.Math;
 /**
  * Created by Akash Bhave on 1/21/2016.
  */
-public class calc6 {
+public class Calculator {
     public static void main(String[] args) {
 
         /*System.out.println(basFun.add(34.0192312, -45.23453));
@@ -23,7 +23,7 @@ public class calc6 {
         System.out.println(statFun.median(1,9,4,5,7,7,21,29,12,25));
         System.out.println(statFun.range(1,9,4,5,7,7,21,29,12,25));*/
         System.out.println(statFun.mode(1, 2, 10, 9, 4, 4, 4, 3, 3, 3, 6));
-        javafx3.main(args);
+        GUI.main(args);
     }
 }
 class basFun {

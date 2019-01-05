@@ -21,7 +21,7 @@ import java.io.File;
 /**
  * Created by Akash Bhave on 1/21/2016.
  */
-public class javafx3 extends Application {
+public class GUI extends Application {
     String TYPE = "";
     String VAL1 = "";
     String VAL2 = "";
@@ -178,7 +178,7 @@ public class javafx3 extends Application {
 
         Scene scene = new Scene(topField, 500, 505);
         scene.getStylesheets().clear();
-        scene.getStylesheets().add("style2.css");
+        scene.getStylesheets().add("style.css");
 
         primaryStage.setTitle("Calculator");
         primaryStage.setResizable(false);
