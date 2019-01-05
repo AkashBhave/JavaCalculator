@@ -9,3 +9,6 @@ Graphical interface is made with JavaFX.
 Starting from JDK 11, JavaFX will no longer be included in the JDK.
 JavaFX will need to be downloaded and included in the CLASSPATH.
 Download is available at [https://openjfx.io/index.html](https://openjfx.io/index.html).
+
+## Screenshots
+![Screenshot](screenshot.png "Java Calculator")

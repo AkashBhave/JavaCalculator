@@ -9,20 +9,6 @@ import java.lang.Math;
  */
 public class Calculator {
     public static void main(String[] args) {
-
-        /*System.out.println(basFun.add(34.0192312, -45.23453));
-        System.out.println(basFun.subt(34.0192312, -45.23453));
-        System.out.println(basFun.mult(34.0192312, -45.23453));
-        System.out.println(basFun.divd(34.0192312, -45.23453));
-        System.out.println(basFun.mod(34.0192312, -45.23453));
-        System.out.println(basFun.abs(-2342.17645));
-        System.out.println(basFun.exp(4, 4));
-        System.out.println(statFun.mad(13,14,15,67,24,12,3));
-        System.out.println(statFun.standev(13, 14, 14, 14, 16, 24, 28, 28));
-        System.out.println(statFun.varnce(13, 14, 14, 14, 16, 24, 28, 28));
-        System.out.println(statFun.median(1,9,4,5,7,7,21,29,12,25));
-        System.out.println(statFun.range(1,9,4,5,7,7,21,29,12,25));*/
-        System.out.println(statFun.mode(1, 2, 10, 9, 4, 4, 4, 3, 3, 3, 6));
         GUI.main(args);
     }
 }
