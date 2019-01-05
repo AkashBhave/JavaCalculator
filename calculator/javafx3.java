@@ -1,4 +1,4 @@
-package Calculator;
+package calculator;
 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
@@ -178,7 +178,7 @@ public class javafx3 extends Application {
 
         Scene scene = new Scene(topField, 500, 505);
         scene.getStylesheets().clear();
-        scene.getStylesheets().add("file:///C:\\CODING\\.idea\\src\\Calculator\\style2.css".replace("\\", "/"));
+        scene.getStylesheets().add("style2.css");
 
         primaryStage.setTitle("Calculator");
         primaryStage.setResizable(false);
